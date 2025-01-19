@@ -1,17 +1,20 @@
-Hi 👋 My name is Deepanvita Paliwal
+Hello! 👋 I am Deepanvita Paliwal
 ===================================
 
 Front End Developer
 -------------------
 
-I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Development. 🚀 I am passionate about designing, developing, and delivering high-quality solutions while constantly learning and applying modern tech stacks. 📈 I seek opportunities to leverage my skills professionally in a dynamic environment.
+I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Development. 
+🚀 I am passionate about designing, developing, and delivering high-quality solutions while constantly learning and applying modern tech stacks. 
+📈 I seek opportunities to leverage my skills professionally in a dynamic environment.
 
-* ✉️  You can contact me at [deepanvitap@gmail.com](mailto:deepanvitap@gmail.com)
+* Email✉️: [deepanvitap@gmail.com](mailto:deepanvitap@gmail.com)
+* Portfolio 👩🏻‍💻: https://deepanvitap.netlify.app/
 
 <a href="https://www.github.com/anvi-paliwal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/anvi-paliwal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Technology Stack
 
 
 <p align="left">
