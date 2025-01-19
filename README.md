@@ -4,7 +4,7 @@ Hello! 👋 I am Deepanvita Paliwal 👩🏻
 Front End Developer 
 -------------------
 
-I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Development. 
+💡 I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Development. 
 🚀 I am passionate about designing, developing, and delivering high-quality solutions while constantly learning and applying modern tech stacks. 
 📈 I seek opportunities to leverage my skills professionally in a dynamic environment.
 
@@ -12,7 +12,7 @@ I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Dev
 * Portfolio 👩🏻‍💻: https://deepanvitap.netlify.app/
 
 
-### Technology Stack
+### Technology Stack:
 
 
 <p align="left">
