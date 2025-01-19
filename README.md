@@ -1,7 +1,7 @@
-Hello! 👋 I am Deepanvita Paliwal
+Hello! 👋 I am Deepanvita Paliwal 👩🏻
 ===================================
 
-Front End Developer
+Front End Developer 
 -------------------
 
 I hold a Bachelor (B.Tech) degree in Computer Science with experience in Web Development. 
